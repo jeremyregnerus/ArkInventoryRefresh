@@ -1,0 +1,6 @@
+## Interface: 11505
+## Title: ArkInventoryRefresh
+## Notes: Forces ArkInventory to refresh when items are added or removed.
+## Author: Tielc
+## Version: 1.0
+ArkInventoryRefresh.lua
